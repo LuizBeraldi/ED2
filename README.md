@@ -1,21 +1,21 @@
 Nessa pasta, contém os trabalhos feitos na matéria de Estruturas de Dados 2, e contém os seguintes códigos:
 
--AVL (Árvore de Busca Binária Balanceada)
+1.AVL (Árvore de Busca Binária Balanceada)
 
--Grafos
-  1. Árvore Geradora Minima
-  2. Busca
+2.Grafos
+  2.1. Árvore Geradora Minima
+  2.2. Busca
      - BFS (Breadth First Search)
      - DFS (Depth First Search)
      - IBO (Um BFS criado para um trabalho especifico)
-  4. Caminho Minimo
+  2.3. Caminho Minimo
      - Bellman Ford
      - Dijkstra
      - BF Cidades (Um Bellman Ford criado para um trabalho especifico)
-  6. Matriz de Adjacência
+  2.4. Matriz de Adjacência
 
--HASH
+3.HASH
 
--HEAP
+4.HEAP
 
--RUBRO NEGRA
+5.RUBRO NEGRA
